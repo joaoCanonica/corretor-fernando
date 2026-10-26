@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://corretor-fernando.vercel.app/sitemap.xml
